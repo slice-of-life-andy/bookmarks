@@ -1,0 +1,13 @@
+- http://loftor.com/archives/good-for-manong.html[码农看看应该有用]summary
+- http://www.abyssss.com/?cat=47[远游即归途]lucene/solr stuff
+- http://blog.csdn.net/duck_genuine/article/details/6962624[源远流长]solr stuff
+- http://osgi.com.cn/[osgi中文社区]
+- http://ifeve.com[http://ifeve.com]
+- http://www.cnblogs.com/i80386[雨渐渐]
+- https://cwiki.apache.org[Apache wiki]
+- https://amplab.cs.berkeley.edu/software/[amplab]
+- http://www.yangzhiping.com/[阳志平]
+- http://www.lifeba.org[Lifeba]
+- http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/[interview a person two years]
+- http://infolab.stanford.edu/~ullman/
+
